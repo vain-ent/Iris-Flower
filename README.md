@@ -15,7 +15,7 @@ classifies Iris flowers using a simple **K-Nearest Neighbors (KNN)** algorithm.
 
 ## 🚀 Run Instructions
 ```bash
-git clone https://github.com/<your-username>/IrisClassifier.git
+git clone https://github.com/vain-ent/IrisClassifier.git
 cd IrisClassifier/src
 javac Main.java ml/*.java
 java Main
